@@ -28,6 +28,10 @@ I attached the Code for simulation of AODV and DSR you can see. By Running the "
 # NOTE:
 
 1.NS2 works in Ubuntu.
+
 2.NsGTFA works in windows.
+
 3.You can change the parameter it will give different result. (we can change the nodes)
+
 4.Analysis Made on Different node values on one protocol to Know the Efficiency.
+
